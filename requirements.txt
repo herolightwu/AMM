@@ -1,0 +1,4 @@
+-e git+https://github.com/algorand/pyteal.git@master#egg=pyteal
+autopep8
+jupyterlab
+python-dotenv
